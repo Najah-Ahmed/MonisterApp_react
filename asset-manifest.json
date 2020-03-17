@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MonisterApp_react/static/css/main.fe56e988.chunk.css",
+    "main.js": "/MonisterApp_react/static/js/main.f9c54c04.chunk.js",
+    "main.js.map": "/MonisterApp_react/static/js/main.f9c54c04.chunk.js.map",
+    "runtime-main.js": "/MonisterApp_react/static/js/runtime-main.81175914.js",
+    "runtime-main.js.map": "/MonisterApp_react/static/js/runtime-main.81175914.js.map",
+    "static/js/2.155ac6ca.chunk.js": "/MonisterApp_react/static/js/2.155ac6ca.chunk.js",
+    "static/js/2.155ac6ca.chunk.js.map": "/MonisterApp_react/static/js/2.155ac6ca.chunk.js.map",
+    "index.html": "/MonisterApp_react/index.html",
+    "precache-manifest.3049f41258fe5efc54515750c7b29e0e.js": "/MonisterApp_react/precache-manifest.3049f41258fe5efc54515750c7b29e0e.js",
+    "service-worker.js": "/MonisterApp_react/service-worker.js",
+    "static/css/main.fe56e988.chunk.css.map": "/MonisterApp_react/static/css/main.fe56e988.chunk.css.map",
+    "static/js/2.155ac6ca.chunk.js.LICENSE.txt": "/MonisterApp_react/static/js/2.155ac6ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81175914.js",
+    "static/js/2.155ac6ca.chunk.js",
+    "static/css/main.fe56e988.chunk.css",
+    "static/js/main.f9c54c04.chunk.js"
+  ]
+}
